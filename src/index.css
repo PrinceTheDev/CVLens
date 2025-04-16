@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+@import "tailwindcss";
+
+
+
+@theme {
+  --font-primary: "Inter", "sans-serif";
+ 
+
+  /* --breakpoint-3xl: 1920px; */
+
+  --color-grey: #7B7B7B;
+  --color-white: #FFFFFF;
+  --color-offWhite: #FBFBFB;
+  --color-black: #111111;
+  --color-mdblack: #555555;
+  --color-prycol: #146BC6;
+
+  --text-p1: 1rem;
+  --text-p1--line-height: 1.4rem; 
+  --text-p1--letter-spacing: -0.02rem; 
+
+  --text-p2: 0.8rem;
+  --text-p2--line-height: 1.2rem; 
+  --text-p2--letter-spacing: -0.04rem; 
+
+  --text-h1: 4.5rem;
+  --text-h1--line-height: 4rem; 
+  --text-h1--letter-spacing: -0.04rem; 
+
+  --text-h3: 2rem;
+  --text-h1--line-height: 3rem; 
+  --text-h1--letter-spacing: -0.04rem; 
+ 
+  --text-h2: 1.5rem;
+  --text-h1--line-height: 2rem; 
+  --text-h1--letter-spacing: -0.04rem; 
+
+  --ease-fluid: cubic-bezier(0.3, 0, 0, 1);
+
+  --ease-snappy: cubic-bezier(0.2, 0, 0, 1);
+  /* ... */
+}
+
+
+
+
