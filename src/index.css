@@ -28,15 +28,15 @@
 
   --text-h1: 4.5rem;
   --text-h1--line-height: 4rem; 
-  --text-h1--letter-spacing: -0.04rem; 
+  --text-h1--letter-spacing: -0.04rem;  
 
   --text-h3: 2rem;
-  --text-h1--line-height: 3rem; 
-  --text-h1--letter-spacing: -0.04rem; 
+  --text-h3--line-height: 3rem; 
+  --text-h3--letter-spacing: -0.04rem; 
  
   --text-h2: 1.5rem;
-  --text-h1--line-height: 2rem; 
-  --text-h1--letter-spacing: -0.04rem; 
+  --text-h2--line-height: 2rem; 
+  --text-h2--letter-spacing: -0.04rem; 
 
   --ease-fluid: cubic-bezier(0.3, 0, 0, 1);
 
